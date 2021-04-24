@@ -41,6 +41,3 @@ Sometimes it becomes very important to search the history of the customer's purc
 
 # Security
 This desktop app is secured using username and password. Not only that, no one can enter the details of the product which is not registered in Master Branch. No one can sell items if the quantity becomes negative or not there in the stock. There are other securities as well which are not listed here.
-
-# Users
-This desktop app is very usefu
